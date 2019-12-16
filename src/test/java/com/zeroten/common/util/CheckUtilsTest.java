@@ -44,4 +44,5 @@ public class CheckUtilsTest {
         Assert.assertEquals(CheckUtils.intequals(1,null),false);
         Assert.assertEquals(CheckUtils.intequals(null,null),false);
     }
+
 }
